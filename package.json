@@ -95,7 +95,7 @@
     "broccoli-clean-css": "0.2.0",
     "broccoli-concat": "0.0.11",
     "broccoli-es3-safe-recast": "1.0.0",
-    "broccoli-es6-concatenator": "0.1.7",
+    "broccoli-es6-concatenator": "flyswatter/master",
     "broccoli-file-mover": "0.3.6",
     "broccoli-file-remover": "0.2.3",
     "broccoli-filter": "0.1.6",
